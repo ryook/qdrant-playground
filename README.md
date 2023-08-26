@@ -17,5 +17,5 @@ poetry run python init.py
 
 ## search
 ```
-poetry run jupyter notebook
+poetry run jupyter notebook search
 ```
